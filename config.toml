@@ -34,4 +34,4 @@ theme = "aerial"
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "discuss@dipeshaggarwal.com"
+  link = "mailto:discuss@dipeshaggarwal.com"
