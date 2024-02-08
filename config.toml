@@ -31,7 +31,7 @@ theme = "aerial"
   icon = "github"
   link = "https://github.com/DipeshAggarwal"
 
-#[[params.social]]
-#  medium = "Email"
-#  icon = "envelope-o"
-#  link = "#"
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:discuss@dipeshaggarwal.com"
