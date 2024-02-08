@@ -5,8 +5,8 @@ theme = "aerial"
 
 [params]
   name = "Dipesh Aggarwal"
-  about = "Computer Vision Engineer &nbsp;&bull;&nbsp; Web Developer &nbsp;&bull;&nbsp; Game Developer &nbsp;&bull;&nbsp; Mobile Developer<br /><br /><div style='font-size:2em;'>The New Website is WIP. Please check back soon.</div>"
-  copyright = "Dipesh Aggarwal 2023"
+  about = "Computer Vision Engineer &nbsp;&bull;&nbsp; NLP Engineer &nbsp;&bull;&nbsp; Web Developer &nbsp;&bull;&nbsp; Game Developer &nbsp;&bull;&nbsp; Mobile Developer<br /><br /><div style='font-size:2em;'>Empowering digital innovation with expertise in Computer Vision, web, game, mobile, and NLP development.</div>"
+  copyright = "Dipesh Aggarwal 2024"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
@@ -31,7 +31,7 @@ theme = "aerial"
   icon = "github"
   link = "https://github.com/DipeshAggarwal"
 
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "mailto:discuss@dipeshaggarwal.com"
+#[[params.social]]
+#  medium = "Email"
+#  icon = "envelope-o"
+#  link = "#"
